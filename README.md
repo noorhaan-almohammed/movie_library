@@ -14,7 +14,7 @@ Finally Delete all by run destroying collection .
 Clone the repository-
 
 ```
-git clone https://github.com/noorhaan-almohammed/Movie-library.git
+git clone https://github.com/noorhaan-almohammed/movie_library.git
 ```
 
 Then cd into the folder with this command-
